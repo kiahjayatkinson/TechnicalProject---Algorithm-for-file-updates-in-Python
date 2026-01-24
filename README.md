@@ -17,6 +17,7 @@ The string containing all IP addresses is converted into a list of individual st
 
 ### Iterate through the remove list 
 A for loop is initiated to iterate over the items in the ip_addresses list. To safely remove elements within the loop, the iteration is performed over a copy of the list: 
+
 <img width="607" height="67" alt="4" src="https://github.com/user-attachments/assets/902fff01-0684-4d0f-ad3a-3e793620103b" />
 
 ### Remove IP addresses that are on the remove list 
